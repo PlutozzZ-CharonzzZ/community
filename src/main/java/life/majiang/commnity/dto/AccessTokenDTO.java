@@ -1,5 +1,9 @@
 package life.majiang.commnity.dto;
 
+/**
+ * 类和类之间网络传输要dto，数据库中用model
+ */
+
 public class AccessTokenDTO {
     private String client_id;
     private String client_secret;
